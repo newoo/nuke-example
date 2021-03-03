@@ -1,0 +1,22 @@
+PODS:
+  - Nuke (9.3.0)
+
+DEPENDENCIES:
+  - Nuke (from `https://github.com/kean/Nuke.git`, branch `master`)
+
+EXTERNAL SOURCES:
+  Nuke:
+    :branch: master
+    :git: https://github.com/kean/Nuke.git
+
+CHECKOUT OPTIONS:
+  Nuke:
+    :commit: e2eb1b7b82983c6f6a2df496e850406a78cdef05
+    :git: https://github.com/kean/Nuke.git
+
+SPEC CHECKSUMS:
+  Nuke: 56a7266398951d9af3a897a71a7b662344915ec5
+
+PODFILE CHECKSUM: be267684428fafe63220445a088009bb8f142f15
+
+COCOAPODS: 1.10.1
