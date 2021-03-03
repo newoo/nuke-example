@@ -6,7 +6,9 @@ target 'nuke-example' do
   use_frameworks!
 
   # Pods for nuke-example
-  pod 'Nuke', :git => 'https://github.com/kean/Nuke.git', :branch => 'master'
+  pod "Nuke"
+  pod "Nuke-Alamofire-Plugin"
+  pod "Nuke-AnimatedImage-Plugin"
 
   target 'nuke-exampleTests' do
     inherit! :search_paths
